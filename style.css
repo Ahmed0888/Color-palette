@@ -1,0 +1,12 @@
+.parentdiv {
+  display: flex;
+  height: 90vh;
+}
+.childdiv {
+  display: flex;
+  flex: 1;
+  align-items: flex-end;
+  justify-content: center;
+  color: aliceblue;
+  padding-bottom: 60px;
+}
